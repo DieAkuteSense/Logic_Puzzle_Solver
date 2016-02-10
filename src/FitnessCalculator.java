@@ -18,5 +18,7 @@ public class FitnessCalculator implements IFitnessCalculator{
         // vielleicht die Anzahl richtiger Felder
 
         return calculatedFitness;
+
+        // Testing Git connection
     }
 }
